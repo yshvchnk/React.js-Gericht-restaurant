@@ -12,7 +12,7 @@
 
 ## About Project
 
-This is a React-based website that promote a restaurant.
+This is a React-based website that promotes a restaurant.
 
 ## Screenshots
 
